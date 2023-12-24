@@ -16,12 +16,12 @@ UI for big smartphones
 # Clone the repository
 
 ```bash
-git clone https://github.com/abdessamadpas/effyis_group_test
+git clone https://github.com/abdessamadpas/Effyis_Group_TestInternship
 ```
 # Navigate to the project directory
 
 ```bash
-cd effyis_group_test
+cd Effyis_Group_TestInternship
 ```
 # Install dependencies
 ```bash
